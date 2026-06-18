@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "ollama_langsmith": "./ollama_langsmith.py:agent"
+    },
+    "env": "./env"
+}
